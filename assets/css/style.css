@@ -1700,7 +1700,6 @@ body {
     visibility: hidden; 
     position: absolute; 
   }
-  
   .switchToggle label {
     cursor: pointer;
     text-indent: -9999px; 
